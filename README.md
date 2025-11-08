@@ -1,7 +1,8 @@
 ﻿# Customer-Segmentation-Project-
 # Customer Segmentation with K-Means and Power BI Dashboard
 
-![Dashboard Preview](Screenshot 2025-11-09 012021.png)
+![Dashboard Preview](<img width="1309" height="734" alt="image" src="https://github.com/user-attachments/assets/ab29f8ca-83d7-4ac2-881e-650bdd1489df" />
+)
 
 ## 📖 Project Overview
 
@@ -149,3 +150,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## 👨‍💻 Author
 
 Naveen M.S - www.linkedin.com/in/naveen-ms
+
